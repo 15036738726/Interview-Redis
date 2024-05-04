@@ -1,3 +1,4 @@
+https://www.bilibili.com/video/BV1nM411c7fY/?p=14&spm_id_from=pageDriver
 
 问题一:假如我要用redis来按天统计我的UV,怎么做?
 UV统计算法,通常指的是在互联网分析中用于衡量独立访客数量的方法。UV是“Unique Visitor”的缩写，指的是在特定时间段内（通常是一天）通过互联网访问某个网站的不同自然人。
